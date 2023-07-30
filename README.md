@@ -1,8 +1,8 @@
-# React + Vite
+# Calculator (React.js Vite)
+A simple calculator made by React.js using Zustand as store, the UI has been inspired by macOS's calculator.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````bash
+yarn && yarn dev
+````
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can see live demo [HERE](https://ssrrsv-5173.csb.app/)
